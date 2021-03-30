@@ -1,13 +1,8 @@
-html *
-{
-   font-size: 1em !important;
-   color: white !important;
-   font-family: Helvetica-Bold !important;
-}
-
 body {
   margin: 0;
   padding: 0;
+  color: white;
+  font-family: Helvetica-Bold !important;
 }
 
 .divFillR {
