@@ -3,7 +3,7 @@ body {
   padding: 0;
   color: white;
   font-family: Helvetica !important;
-	background: linear-gradient(-45deg, rgba(50,175,200,1), rgba(66,5,130,1));
+	background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
