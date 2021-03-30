@@ -5,69 +5,69 @@ body {
   font-family: Helvetica-Bold !important;
 }
 
-.divFillR {
-    position: center;
-    background-color: transparent;
-    box-sizing: border-box;
-    padding: 30px;
-    color: #fff;
-    margin-top: 25px;
-    margin-bottom: 25vh;
-    width: 100%;
-    height: 60vh;
-    text-align: center;
-}
-
-.divFillR:after {
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-    content: '';
-    background: inherit;
-    z-index: -1;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    transform-origin: top right;
-    transform: skewY(-4deg);
-}
-
-.divFillL {
-    position: center;
-    background-color: transparent;
-    box-sizing: border-box;
-    padding: 30px;
-    color: #fff;
-    margin-top: 25px;
-    margin-bottom: 25vh;
-    width: 100%;
-    height: 60vh;
-    text-align: center;
-}
-
-.divFillL:after {
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-    content: '';
-    background: inherit;
-    z-index: -1;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    transform-origin: top right;
-    transform: skewY(-4deg);
-}
-
 .divClearR {
-
-
+    position: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    padding: 30px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25vh;
+    width: 100%;
+    height: 60vh;
+    text-align: center;
 }
 
+.divClearR:after {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    content: '';
+    background: inherit;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    transform-origin: top right;
+    transform: skewY(-4deg);
+}
 
 .divClearL {
+    position: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    padding: 30px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25vh;
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+}
+
+.divClearL:after {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    content: '';
+    background: inherit;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    transform-origin: top right;
+    transform: skewY(-4deg);
+}
+
+.divFillR {
+
+
+}
+
+
+.divFillL {
 
 
 }
