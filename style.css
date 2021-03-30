@@ -75,7 +75,7 @@ body {
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: white;
   padding: 20px 10px;
 }
 
