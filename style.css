@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(217deg, rgba(65,244,251,.8), rgba(65,244,251,0) 70.71%),
+  background-image: linear-gradient(217deg, rgba(65,244,251,.8), rgba(65,244,251,0) 70.71%),
               linear-gradient(127deg, rgba(81,2,180,.8), rgba(81,2,180,0) 70.71%),
               linear-gradient(336deg, rgba(73,121,215,.8), rgba(73,121,215,0) 70.71%);
 }
